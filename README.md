@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VIJAY KUMAR CHANDRA</h1>
 <h3 align="center">Crafting Digital Experiences: Web Developer</h3>
 
-- 🌱 I’m currently learning **java script**
+- 🌱 I’m currently learning **JAVA** as a programming language
 
 - 💬 Ask me about **HTML,CSS,js**
 

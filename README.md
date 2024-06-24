@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JAVA** as a programming language
 
-- 💬 Ask me about **HTML,CSS,js**
+- 💬 Ask me about **HTML,CSS,js,JAVA**
 
 - 📫 How to reach me **vijaychandra356@gmail.com**
 

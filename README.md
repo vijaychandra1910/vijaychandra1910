@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaychandra1910&label=Profile%20views&color=0e75b6&style=flat" alt="vijaychandra1910" /> </p>
 <h1 align="center">Hi 👋, I'm VIJAY KUMAR CHANDRA</h1>
 <h3 align="center">Crafting Digital Experiences: Web Developer</h3>
 

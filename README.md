@@ -10,7 +10,7 @@
 <img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" />
 
 - 🔭 I'm a <b> Web developer </b>
-- 🌱 Currently Learning <b> Database </b>
+- 🌱 Currently I am working on different <b> Projects </b>
 
 - 🌱 Pursuing **Btech**
 

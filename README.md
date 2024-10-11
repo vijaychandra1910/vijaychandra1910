@@ -53,6 +53,7 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=vijaychandra1910&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+[![An image of @vijaychandra1910's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijaychandra1910)](https://holopin.io/@vijaychandra1910)
 
 ### ✍️ Random Dev Quote
 

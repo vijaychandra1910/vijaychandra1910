@@ -43,7 +43,7 @@
 <div align="center">
 
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vijaychandra1910&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 🎖️ Special Achievements 💫
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px"/>
@@ -63,17 +63,13 @@
 <a href="https://github.com/vijaychandra1910">
 ![](https://github-readme-stats.vercel.app/api?username=vijaychandra1910&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaychandra1910&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=vijaychandra1910&theme=blue-green&hide_border=true)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vijaychandra1910&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vijaychandra1910&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vijaychandra1910&theme=blue_green&utcOffset=8)
 <br/>
 
 
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=vijaychandra1910&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 [![An image of @vijaychandra1910's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijaychandra1910)](https://holopin.io/@vijaychandra1910)
 
 ### ✍️ Random Dev Quote

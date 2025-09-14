@@ -18,9 +18,10 @@
 
 - 💬 Ask me about **JavaScript,Node.js,Express.js,MongoDB,C++,**
 
-- 📫 How to reach me **vijaychandra356@gmail.com**
+- 📫 How to reach me **vijaychandra383@gmail.com**
 
 - 👨‍💻Open source contributor
+-  Fundamentals of **Artificial Intelligence & Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -40,7 +40,10 @@
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href='https://redux.js.org'><img src='https://avatars.githubusercontent.com/u/13142323?s=200&v=4' height='40' width="40" alt='Redux Logo' aria-label='redux.js.org' "/></a></p>
+<a href='https://redux.js.org'><img src='https://avatars.githubusercontent.com/u/13142323?s=200&v=4' height='40' width="40" alt='Redux Logo' aria-label='redux.js.org' "/></a>
+<a href="https://www.w3schools.com/docker/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+ 
+</p>
 
 <div align="center">
 
